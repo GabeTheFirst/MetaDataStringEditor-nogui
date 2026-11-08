@@ -32,6 +32,9 @@ public static class ExampleProgram
         Metadata.LoadFile(".../path/to/file");
         EditorListItem Item = Metadata.GetContains("meow");
         Item.SetNewStr("Meowing");
+        // this saves the file after creating a backup
+        // for the same result, you can just .Save()
+        // or for no backup use .Save(false)
         Metadata.Save(true);
     }
 }
