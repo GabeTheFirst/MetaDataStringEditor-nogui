@@ -1,3 +1,7 @@
+# MOVED
+https://codeberg.org/GabeTheFirst/MetaDataStringEditor-nogui
+
+
 ## Forked from:
 - [MetadataStringEditor](https://github.com/JeremieCHN/MetaDataStringEditor)<br>
 
